@@ -1,4 +1,3 @@
-// import { Component } from 'react';
 import { useState, useEffect } from 'react';
 import { ToastContainer } from 'react-toastify';
 import { toast } from 'react-toastify';
